@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">HW4</string>
+    <string name = "bird_watching">Bird Watching</string>
+    <string name="bird_name">Name of bird</string>
+    <string name="bird_zipcode">Zipcode of bird</string>
+    <string name="bird_reporter">Name of person reporting</string>
+    <string name="submit_bird">Submit Bird</string>
+    <string name="bird_enter">Enter bird information</string>
+    <string name="find_a_bird">Enter a zipcode to search for a bird</string>
+    <string name="find_bird">Find a bird</string>
+    <string name="enter_zipcode">Enter zipcode</string>
 </resources>
