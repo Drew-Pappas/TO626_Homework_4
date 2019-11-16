@@ -10,6 +10,10 @@
     <string name="find_bird">Find a bird</string>
     <string name="enter_zipcode">Enter zipcode</string>
     <string name="enter_bird">Enter Bird</string>
+    <string name="bird_name_display">Found bird name:</string>
+    <string name="bird_zip_display">Found bird zip:</string>
+    <string name="bird_reporter_display">Found bird reporter:</string>
+
     <string name="title_activity_navigation">NavigationActivity</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
