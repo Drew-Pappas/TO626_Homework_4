@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/main_activity_menu_item"
+        android:title="@string/enter_bird" />
+    <item
+        android:id="@+id/search_for_bird_menu_item"
+        android:title="@string/find_bird" />
+</menu>
